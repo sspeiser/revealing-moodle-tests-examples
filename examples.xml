@@ -1,0 +1,2690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="category">
+    <category>
+        <text>$course$/Arithmetic statements simple</text>
+    </category>
+</question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements simple</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;2 + 3 &#x3D; 5</text></questiontext>
+            <answer fraction="100">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements simple</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;3 + 7 &#x3D; 8</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements simple</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;1 + 1 &#x3D; 3</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements simple</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;1 + 1 &#x3D; 2</text></questiontext>
+            <answer fraction="100">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+<question type="category">
+    <category>
+        <text>$course$/Arithmetic statements generated</text>
+    </category>
+</question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;87 + 26 &#x3D; 112</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;14 + 56 &#x3D; 69</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;62 + 18 &#x3D; 80</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;55 + 47 &#x3D; 101</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;50 + 40 &#x3D; 91</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;58 + 70 &#x3D; 129</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;6 + 62 &#x3D; 67</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;84 + 38 &#x3D; 123</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;29 + 50 &#x3D; 78</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;42 + 100 &#x3D; 143</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;66 + 72 &#x3D; 139</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;4 + 37 &#x3D; 42</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;88 + 55 &#x3D; 142</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;40 + 36 &#x3D; 77</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;16 + 66 &#x3D; 82</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;22 + 50 &#x3D; 71</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;95 + 41 &#x3D; 136</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;34 + 77 &#x3D; 111</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;99 + 41 &#x3D; 141</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;41 + 72 &#x3D; 112</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;62 + 41 &#x3D; 102</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;77 + 4 &#x3D; 80</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;27 + 36 &#x3D; 64</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;95 + 61 &#x3D; 157</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;34 + 22 &#x3D; 55</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;22 + 71 &#x3D; 92</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;9 + 28 &#x3D; 36</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;9 + 33 &#x3D; 41</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;44 + 58 &#x3D; 101</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;42 + 78 &#x3D; 119</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;18 + 18 &#x3D; 36</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;71 + 8 &#x3D; 79</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;9 + 11 &#x3D; 21</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;68 + 61 &#x3D; 129</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;97 + 29 &#x3D; 127</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;13 + 62 &#x3D; 76</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;9 + 20 &#x3D; 28</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;17 + 49 &#x3D; 66</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;52 + 30 &#x3D; 83</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;40 + 41 &#x3D; 80</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;40 + 38 &#x3D; 78</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;70 + 62 &#x3D; 133</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;84 + 34 &#x3D; 119</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;87 + 98 &#x3D; 184</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;100 + 79 &#x3D; 180</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;67 + 36 &#x3D; 104</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;60 + 85 &#x3D; 145</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;38 + 96 &#x3D; 134</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;80 + 28 &#x3D; 108</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic statements generated</text></name>
+        <questiontext><text>Please assess the following statement&lt;br &#x2F;&gt;35 + 91 &#x3D; 125</text></questiontext>
+            <answer fraction="0">
+                <text>Wahr</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="100">
+                <text>Falsch</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+<question type="category">
+    <category>
+        <text>$course$/Arithmetic calculations multi</text>
+    </category>
+</question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;50 + 74 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>124</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>122</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>123</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>122</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;94 + 8 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>102</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>101</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>101</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>100</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;100 + 99 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>199</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>197</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>196</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>198</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;100 + 72 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>172</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>170</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>168</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>169</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;69 + 94 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>163</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>162</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>161</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>161</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;17 + 23 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>40</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>37</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>39</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>39</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;1 + 71 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>72</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>71</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>68</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>70</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;78 + 64 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>142</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>141</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>140</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>138</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;15 + 3 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>18</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>17</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>15</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>14</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;12 + 81 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>93</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>89</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>91</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>92</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;50 + 39 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>89</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>88</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>85</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>88</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;73 + 2 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>75</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>72</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>74</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>72</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;43 + 56 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>99</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>97</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>97</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>97</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;83 + 71 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>154</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>153</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>152</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>151</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;62 + 8 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>70</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>66</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>68</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>68</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;89 + 76 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>165</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>162</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>163</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>163</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;97 + 56 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>153</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>149</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>151</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>152</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;83 + 8 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>91</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>90</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>90</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>89</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;80 + 55 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>135</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>133</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>133</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>132</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;28 + 77 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>105</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>103</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>103</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>103</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;58 + 7 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>65</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>64</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>64</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>64</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;17 + 4 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>21</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>19</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>20</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>19</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;7 + 66 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>73</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>71</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>72</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>69</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;96 + 58 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>154</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>152</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>153</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>152</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;15 + 47 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>62</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>60</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>58</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>61</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;33 + 87 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>120</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>118</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>118</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>116</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;23 + 14 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>37</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>34</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>35</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>35</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;94 + 21 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>115</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>113</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>112</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>111</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;38 + 50 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>88</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>86</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>85</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>87</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;33 + 99 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>132</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>130</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>131</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>128</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;24 + 2 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>26</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>25</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>24</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>22</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;89 + 18 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>107</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>106</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>105</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>103</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;50 + 81 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>131</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>127</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>130</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>130</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;95 + 54 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>149</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>148</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>146</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>148</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;36 + 80 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>116</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>112</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>112</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>114</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;80 + 43 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>123</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>122</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>121</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>122</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;37 + 90 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>127</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>125</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>126</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>123</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;1 + 38 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>39</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>38</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>37</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>37</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;58 + 57 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>115</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>114</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>114</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>114</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;75 + 99 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>174</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>171</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>171</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>173</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;95 + 24 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>119</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>117</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>116</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>116</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;35 + 56 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>91</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>90</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>90</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>90</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;52 + 28 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>80</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>78</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>79</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>76</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;25 + 40 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>65</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>64</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>61</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>62</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;39 + 46 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>85</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>82</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>83</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>84</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;14 + 8 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>22</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>18</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>20</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>19</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;71 + 51 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>122</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>121</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>121</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>121</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;44 + 88 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>132</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>131</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>128</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>130</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;96 + 67 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>163</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>161</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>161</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>161</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="multichoice">
+        <name><text>Arithmetic calculations multi</text></name>
+        <questiontext><text>Please evaluate the following expression&lt;br &#x2F;&gt;47 + 8 &#x3D; </text></questiontext>
+            <answer fraction="100">
+                <text>55</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>52</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>54</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+            <answer fraction="0">
+                <text>52</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+<question type="category">
+    <category>
+        <text>$course$/Arithmetic calculations free text</text>
+    </category>
+</question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 81 + 55</text></questiontext>
+            <answer fraction="100">
+                <text>136</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 33 + 18</text></questiontext>
+            <answer fraction="100">
+                <text>51</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 57 + 14</text></questiontext>
+            <answer fraction="100">
+                <text>71</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 97 + 37</text></questiontext>
+            <answer fraction="100">
+                <text>134</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 89 + 27</text></questiontext>
+            <answer fraction="100">
+                <text>116</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 62 + 69</text></questiontext>
+            <answer fraction="100">
+                <text>131</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 89 + 60</text></questiontext>
+            <answer fraction="100">
+                <text>149</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 38 + 81</text></questiontext>
+            <answer fraction="100">
+                <text>119</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 40 + 15</text></questiontext>
+            <answer fraction="100">
+                <text>55</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 24 + 2</text></questiontext>
+            <answer fraction="100">
+                <text>26</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 7 + 12</text></questiontext>
+            <answer fraction="100">
+                <text>19</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 91 + 67</text></questiontext>
+            <answer fraction="100">
+                <text>158</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 53 + 24</text></questiontext>
+            <answer fraction="100">
+                <text>77</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 12 + 53</text></questiontext>
+            <answer fraction="100">
+                <text>65</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 3 + 18</text></questiontext>
+            <answer fraction="100">
+                <text>21</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 51 + 54</text></questiontext>
+            <answer fraction="100">
+                <text>105</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 23 + 84</text></questiontext>
+            <answer fraction="100">
+                <text>107</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 69 + 44</text></questiontext>
+            <answer fraction="100">
+                <text>113</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 65 + 41</text></questiontext>
+            <answer fraction="100">
+                <text>106</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 27 + 4</text></questiontext>
+            <answer fraction="100">
+                <text>31</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 69 + 63</text></questiontext>
+            <answer fraction="100">
+                <text>132</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 13 + 100</text></questiontext>
+            <answer fraction="100">
+                <text>113</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 90 + 23</text></questiontext>
+            <answer fraction="100">
+                <text>113</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 80 + 2</text></questiontext>
+            <answer fraction="100">
+                <text>82</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 98 + 80</text></questiontext>
+            <answer fraction="100">
+                <text>178</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 61 + 90</text></questiontext>
+            <answer fraction="100">
+                <text>151</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 15 + 67</text></questiontext>
+            <answer fraction="100">
+                <text>82</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 81 + 44</text></questiontext>
+            <answer fraction="100">
+                <text>125</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 81 + 35</text></questiontext>
+            <answer fraction="100">
+                <text>116</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 82 + 99</text></questiontext>
+            <answer fraction="100">
+                <text>181</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 30 + 93</text></questiontext>
+            <answer fraction="100">
+                <text>123</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 74 + 59</text></questiontext>
+            <answer fraction="100">
+                <text>133</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 72 + 42</text></questiontext>
+            <answer fraction="100">
+                <text>114</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 97 + 49</text></questiontext>
+            <answer fraction="100">
+                <text>146</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 36 + 52</text></questiontext>
+            <answer fraction="100">
+                <text>88</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 69 + 14</text></questiontext>
+            <answer fraction="100">
+                <text>83</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 52 + 37</text></questiontext>
+            <answer fraction="100">
+                <text>89</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 30 + 23</text></questiontext>
+            <answer fraction="100">
+                <text>53</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 90 + 60</text></questiontext>
+            <answer fraction="100">
+                <text>150</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 25 + 78</text></questiontext>
+            <answer fraction="100">
+                <text>103</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 3 + 53</text></questiontext>
+            <answer fraction="100">
+                <text>56</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 35 + 75</text></questiontext>
+            <answer fraction="100">
+                <text>110</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 71 + 13</text></questiontext>
+            <answer fraction="100">
+                <text>84</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 85 + 49</text></questiontext>
+            <answer fraction="100">
+                <text>134</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 46 + 58</text></questiontext>
+            <answer fraction="100">
+                <text>104</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 6 + 25</text></questiontext>
+            <answer fraction="100">
+                <text>31</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 5 + 43</text></questiontext>
+            <answer fraction="100">
+                <text>48</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 12 + 48</text></questiontext>
+            <answer fraction="100">
+                <text>60</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 62 + 47</text></questiontext>
+            <answer fraction="100">
+                <text>109</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="shortanswer">
+        <name><text>Arithmetic calculations free text</text></name>
+        <questiontext><text>Please calculate the value of 10 + 64</text></questiontext>
+            <answer fraction="100">
+                <text>74</text>
+                <feedback><text>Korrekt</text></feedback>
+            </answer>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+<question type="category">
+    <category>
+        <text>$course$/Arithmetic calculations cloze</text>
+    </category>
+</question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 75 and 38&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;113}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;452}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 22 and 22&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;44}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;220}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 34 and 2&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;36}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 3: {1:SHORTANSWER:&#x3D;108}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 59 and 43&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;102}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;510}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 48 and 2&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;50}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 3: {1:SHORTANSWER:&#x3D;150}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 11 and 12&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;23}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;92}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 61 and 28&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;89}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;178}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 79 and 15&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;94}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;376}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 66 and 72&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;138}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 3: {1:SHORTANSWER:&#x3D;414}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 89 and 54&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;143}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;572}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 45 and 53&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;98}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 3: {1:SHORTANSWER:&#x3D;294}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 27 and 15&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;42}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;210}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 25 and 27&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;52}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 3: {1:SHORTANSWER:&#x3D;156}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 12 and 47&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;59}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;295}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 68 and 14&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;82}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;410}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 90 and 63&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;153}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 3: {1:SHORTANSWER:&#x3D;459}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 14 and 38&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;52}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;260}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 20 and 91&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;111}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;222}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 81 and 46&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;127}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;508}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 20 and 87&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;107}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;428}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 14 and 33&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;47}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;94}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 4 and 29&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;33}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;66}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 80 and 25&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;105}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;525}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 18 and 73&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;91}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;364}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 69 and 13&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;82}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;328}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 43 and 92&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;135}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;540}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 54 and 40&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;94}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;188}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 21 and 64&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;85}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;170}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 30 and 63&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;93}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;372}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 57 and 38&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;95}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;380}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 79 and 6&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;85}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;170}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 39 and 70&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;109}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 3: {1:SHORTANSWER:&#x3D;327}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 86 and 28&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;114}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;570}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 50 and 20&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;70}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;140}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 99 and 73&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;172}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;860}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 47 and 17&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;64}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;256}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 37 and 98&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;135}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;675}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 75 and 23&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;98}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;392}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 36 and 75&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;111}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;555}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 64 and 63&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;127}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;254}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 28 and 47&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;75}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;150}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 63 and 75&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;138}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;276}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 66 and 61&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;127}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;508}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 29 and 58&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;87}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;348}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 40 and 96&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;136}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;272}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 69 and 33&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;102}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 3: {1:SHORTANSWER:&#x3D;306}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 27 and 19&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;46}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 2: {1:SHORTANSWER:&#x3D;92}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 39 and 27&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;66}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 4: {1:SHORTANSWER:&#x3D;264}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 50 and 13&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;63}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;315}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Arithmetic calculations cloze</text></name>
+        <questiontext><text>Please add the numbers 59 and 9&lt;br &#x2F;&gt;            Result: {1:SHORTANSWER:&#x3D;68}&lt;br &#x2F;&gt;            &lt;br &#x2F;&gt;            Now multiply that result with 5: {1:SHORTANSWER:&#x3D;340}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+<question type="category">
+    <category>
+        <text>$course$/Java while loops</text>
+    </category>
+</question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int e &#x3D; 8;&lt;br &#x2F;&gt;     while (e &lt; 28) {&lt;br &#x2F;&gt;         e &#x3D; e + 3;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(e);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;7} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;29}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int b &#x3D; 6;&lt;br &#x2F;&gt;     while (b &lt; 11) {&lt;br &#x2F;&gt;         b &#x3D; b + 5;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(b);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;1} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;11}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int i &#x3D; 8;&lt;br &#x2F;&gt;     while (i &lt; 32) {&lt;br &#x2F;&gt;         i &#x3D; i + 3;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(i);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;8} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;32}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int c &#x3D; 3;&lt;br &#x2F;&gt;     while (c &lt; 18) {&lt;br &#x2F;&gt;         c &#x3D; c + 6;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(c);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;3} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;21}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int y &#x3D; 3;&lt;br &#x2F;&gt;     while (y &lt; 33) {&lt;br &#x2F;&gt;         y &#x3D; y + 4;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(y);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;8} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;35}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int b &#x3D; 4;&lt;br &#x2F;&gt;     while (b &lt; 28) {&lt;br &#x2F;&gt;         b &#x3D; b + 6;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(b);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;4} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;28}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int t &#x3D; 5;&lt;br &#x2F;&gt;     while (t &lt; 27) {&lt;br &#x2F;&gt;         t &#x3D; t + 4;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(t);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;6} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;29}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int m &#x3D; 9;&lt;br &#x2F;&gt;     while (m &lt; 25) {&lt;br &#x2F;&gt;         m &#x3D; m + 3;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(m);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;6} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;27}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int p &#x3D; 4;&lt;br &#x2F;&gt;     while (p &lt; 25) {&lt;br &#x2F;&gt;         p &#x3D; p + 3;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(p);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;7} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;25}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int r &#x3D; 5;&lt;br &#x2F;&gt;     while (r &lt; 23) {&lt;br &#x2F;&gt;         r &#x3D; r + 6;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(r);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;3} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;23}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int n &#x3D; 5;&lt;br &#x2F;&gt;     while (n &lt; 11) {&lt;br &#x2F;&gt;         n &#x3D; n + 6;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(n);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;1} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;11}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int n &#x3D; 5;&lt;br &#x2F;&gt;     while (n &lt; 27) {&lt;br &#x2F;&gt;         n &#x3D; n + 3;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(n);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;8} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;29}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int g &#x3D; 7;&lt;br &#x2F;&gt;     while (g &lt; 26) {&lt;br &#x2F;&gt;         g &#x3D; g + 4;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(g);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;5} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;27}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int t &#x3D; 2;&lt;br &#x2F;&gt;     while (t &lt; 24) {&lt;br &#x2F;&gt;         t &#x3D; t + 3;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(t);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;8} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;26}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int u &#x3D; 7;&lt;br &#x2F;&gt;     while (u &lt; 21) {&lt;br &#x2F;&gt;         u &#x3D; u + 6;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(u);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;3} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;25}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int s &#x3D; 5;&lt;br &#x2F;&gt;     while (s &lt; 17) {&lt;br &#x2F;&gt;         s &#x3D; s + 5;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(s);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;3} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;20}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int x &#x3D; 6;&lt;br &#x2F;&gt;     while (x &lt; 28) {&lt;br &#x2F;&gt;         x &#x3D; x + 4;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(x);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;6} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;30}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int q &#x3D; 9;&lt;br &#x2F;&gt;     while (q &lt; 29) {&lt;br &#x2F;&gt;         q &#x3D; q + 6;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(q);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;4} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;33}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int v &#x3D; 7;&lt;br &#x2F;&gt;     while (v &lt; 30) {&lt;br &#x2F;&gt;         v &#x3D; v + 3;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(v);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;8} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;31}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java while loops</text></name>
+        <questiontext><text>Betrachten Sie bitte die folgende Schleife:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;    &lt;br &#x2F;&gt;     int a &#x3D; 7;&lt;br &#x2F;&gt;     while (a &lt; 30) {&lt;br &#x2F;&gt;         a &#x3D; a + 6;&lt;br &#x2F;&gt;        }&lt;br &#x2F;&gt;        System.out.println(a);&lt;br &#x2F;&gt;     &lt;br &#x2F;&gt;    Wie oft wird diese Schleife durchlaufen? {1:SHORTANSWER:&#x3D;4} Welcher Wert wird auf dem Bildschirm ausgegeben? {1:SHORTANSWER:&#x3D;31}</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+<question type="category">
+    <category>
+        <text>$course$/Java for each loops</text>
+    </category>
+</question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about conferences. You have a variable conferences of type List&lt;Conference&gt;. Each object of type Conference has a method getParticipants() that returns the participants of the conference as an integer. Complete the following code that adds up the participants of all conferences:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Conference} element : {1:SHORTANSWER:&#x3D;conferences})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getParticipants();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about books. You have a variable books of type List&lt;Book&gt;. Each object of type Book has a method getPages() that returns the pages of the book as an integer. Complete the following code that adds up the pages of all books:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Book} element : {1:SHORTANSWER:&#x3D;books})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getPages();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about conferences. You have a variable conferences of type List&lt;Conference&gt;. Each object of type Conference has a method getParticipants() that returns the participants of the conference as an integer. Complete the following code that adds up the participants of all conferences:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Conference} element : {1:SHORTANSWER:&#x3D;conferences})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getParticipants();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about conferences. You have a variable conferences of type List&lt;Conference&gt;. Each object of type Conference has a method getParticipants() that returns the participants of the conference as an integer. Complete the following code that adds up the participants of all conferences:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Conference} element : {1:SHORTANSWER:&#x3D;conferences})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getParticipants();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about books. You have a variable books of type List&lt;Book&gt;. Each object of type Book has a method getPages() that returns the pages of the book as an integer. Complete the following code that adds up the pages of all books:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Book} element : {1:SHORTANSWER:&#x3D;books})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getPages();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about conferences. You have a variable conferences of type List&lt;Conference&gt;. Each object of type Conference has a method getParticipants() that returns the participants of the conference as an integer. Complete the following code that adds up the participants of all conferences:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Conference} element : {1:SHORTANSWER:&#x3D;conferences})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getParticipants();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about clubs. You have a variable clubs of type List&lt;Club&gt;. Each object of type Club has a method getMembers() that returns the members of the club as an integer. Complete the following code that adds up the members of all clubs:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Club} element : {1:SHORTANSWER:&#x3D;clubs})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getMembers();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+    <question type="cloze">
+        <name><text>Java for each loops</text></name>
+        <questiontext><text>Consider a Java program that stores information about books. You have a variable books of type List&lt;Book&gt;. Each object of type Book has a method getPages() that returns the pages of the book as an integer. Complete the following code that adds up the pages of all books:&lt;br &#x2F;&gt;&lt;br &#x2F;&gt;int total &#x3D; 0;&lt;br &#x2F;&gt;for({1:SHORTANSWER:&#x3D;Book} element : {1:SHORTANSWER:&#x3D;books})) {&lt;br &#x2F;&gt;    total +&#x3D; {1:SHORTANSWER:&#x3D;element.getPages();}&lt;br &#x2F;&gt;}&lt;br &#x2F;&gt;System.out.println(&quot;Total: &quot; + total);</text></questiontext>
+        <shuffleanswers>true</shuffleanswers>
+    </question>
+</quiz>
